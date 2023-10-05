@@ -93,31 +93,7 @@
 //     password : "abc"
 // }
 // let obj1 = JSON.stringify(obj);
-// localStorage.setItem('User1',obj1);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// localStorage.setItem('User1',obj1);to
 
 
 //-------------------------------------------------------

@@ -154,9 +154,9 @@ of the function match the passing parameter then we use the rest opertor. */
 // console.log(result2);// -1 because not present.
 
 // trim function :- The trim() method removes whitespace from both sides of a string.
-let text = "       Hello World!        ";
-let result = text.trim();
-console.log(result);
+// let text = "       Hello World!        ";
+// let result = text.trim();
+// console.log(result);
 
 
 

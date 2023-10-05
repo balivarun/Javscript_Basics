@@ -1,0 +1,26 @@
+body{
+    background-color: lightcoral;
+}
+
+#btn{
+     background-color: lightseagreen;
+}
+
+#inputdiv input{
+    background-color: lightcyan;
+}
+
+h1{
+    text-align: center;
+
+}
+#inputdiv input{
+    text-align: center;
+    height: 25px;
+    width: 97%;
+
+}
+
+
+
+
